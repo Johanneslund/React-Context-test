@@ -13,7 +13,7 @@ function App() {
         <Header />
         <Workspace />
       </NameProvider>
-      <h1>test för qr</h1>
+      <h2>test för qr</h2>
       <Footer />
     </>
   );
