@@ -4,7 +4,7 @@ import Custombutton from "./CustomButton";
 function Workspace() {
     return (
         <>
-            <Box sx={{ minWidth: "100%", minHeight: "80vh" }}>
+            <Box sx={{ minWidth: "100%", minHeight: "60vh" }}>
                 <Custombutton />
             </Box>
         </>
